@@ -1,0 +1,16 @@
+{
+  "name": "retinal-disease-classifier",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html --public-url ./"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "parcel": "^2.10.0",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^2.2.19",
+    "typescript": "^5.2.2"
+  }
+}
+
